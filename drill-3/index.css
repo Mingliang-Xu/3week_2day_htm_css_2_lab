@@ -1,0 +1,58 @@
+.colored-section {
+    background-color: lightgray;
+    height: 200px;
+    width: 1000px;
+}
+
+#first-section {
+    height: 100px;
+}
+#square-div{
+    background-color: cornflowerblue;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+#second-section {
+    background-color: white;
+}
+#second-section > p {
+    text-align: center left;
+    padding: 10px;
+}
+
+
+#third-section{
+    background-color: cornflowerblue;
+}
+
+#fourth-section {
+    background-color: aquamarine;
+
+}
+
+#fifth-section {
+    background-color:lightgreen ;
+
+}
+#sixth-section {
+    background-color:yellow ;
+}
+#circle-div {
+    background-color: black;
+    height: 60px;
+    width: 60px;
+    border-radius: 180px;
+    position: absolute;
+    left: 935px;
+    top: 1055px;
+}
+
+#circle-div > p {
+    color: white;
+    font-size:x-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
